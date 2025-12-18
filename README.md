@@ -1,5 +1,5 @@
 # 🌊 Flood-Fuzzy Batam: Deteksi Banjir & Analisis Dampak Ekonomi
-[![Streamlit App]](https://flood-risk-batam.streamlit.app/)
+[[Streamlit App]](https://flood-risk-batam.streamlit.app/)
 [![Location](https://img.shields.io/badge/Location-Kota%20Batam-red.svg)](https://www.google.com/maps/place/Batam)
 
 > **Proyek PKM-AI 2025**: Rancang Bangun Sistem Deteksi Banjir Berbasis Fuzzy Logic dan Analisis Dampak Kerugian Ekonomi di Kota Batam.
