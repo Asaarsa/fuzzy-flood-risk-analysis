@@ -26,8 +26,3 @@ Sebagai pusat industri dan perdagangan, banjir di Kota Batam tidak hanya berdamp
 - **Scikit-Fuzzy**: Untuk pemrosesan inferensi logika Fuzzy.
 - **Pandas & Plotly**: Untuk analisis data ekonomi dan visualisasi grafik interaktif.
 
-## 📂 Cara Instalasi
-```bash
-git clone [https://github.com/Asaarsa/fuzzy-flood-risk-analysis.git](https://github.com/Asaarsa/fuzzy-flood-risk-analysis.git)
-pip install -r requirements.txt
-streamlit run app.py
